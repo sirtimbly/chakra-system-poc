@@ -1,0 +1,135 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3589302, 2018-05-30T10:33:29-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: AvenirLTPro-Light by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-35-light-115678/
+ *
+ * Webfont: AvenirLTPro-LightOblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-35-light-oblique-115678/
+ *
+ * Webfont: AvenirLTPro-Book by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-45-book-115678/
+ *
+ * Webfont: AvenirLTPro-BookOblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-45-book-oblique-115678/
+ *
+ * Webfont: AvenirLTPro-Roman by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-55-roman-115678/
+ *
+ * Webfont: AvenirLTPro-Oblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-55-oblique-115678/
+ *
+ * Webfont: AvenirLTPro-Medium by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-65-medium-115678/
+ *
+ * Webfont: AvenirLTPro-MediumOblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-65-medium-oblique-115678/
+ *
+ * Webfont: AvenirLTPro-Heavy by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-85-heavy-115678/
+ *
+ * Webfont: AvenirLTPro-HeavyOblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-85-heavy-oblique-115678/
+ *
+ * Webfont: AvenirLTPro-Black by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-95-black-115678/
+ *
+ * Webfont: AvenirLTPro-BlackOblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-95-black-oblique-115678/
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3589302
+ * Licensed pageviews: 15
+ * Webfonts copyright: Copyright &#x00A9; 2014 Monotype GmbH. All rights reserved.
+ *
+ * © 2018 MyFonts Inc
+*/
+
+@font-face {
+  font-family: 'AvenirLTPro-Light';
+  src:
+    url('./lib/fonts/36C4B6_0_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_0_0.woff') format('woff');
+}
+@font-face {
+  font-family: 'AvenirLTPro-LightOblique';
+  src:
+    url('./lib/fonts/36C4B6_1_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_1_0.woff') format('woff');
+}
+@font-face {
+  font-family: 'AvenirLTPro-Book';
+  src:
+    url('./lib/fonts/36C4B6_2_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_2_0.woff') format('woff');
+}
+@font-face {
+  font-family: 'AvenirLTPro-BookOblique';
+  src:
+    url('./lib/fonts/36C4B6_3_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_3_0.woff') format('woff');
+}
+@font-face {
+  font-family: 'Avenir';
+  font-weight: normal;
+  font-style: normal;
+  src:
+    url('./lib/fonts/36C4B6_4_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_4_0.woff') format('woff');
+}
+@font-face {
+  font-family: 'Avenir';
+  font-weight: normal;
+  font-style: italic;
+  src:
+    url('./lib/fonts/36C4B6_5_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_5_0.woff') format('woff');
+
+}
+@font-face {
+  font-family: 'AvenirLTPro-Medium';
+  src:
+    url('./lib/fonts/36C4B6_6_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_6_0.woff') format('woff');
+}
+@font-face {
+  font-family: 'AvenirLTPro-MediumOblique';
+  src:
+    url('./lib/fonts/36C4B6_7_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_7_0.woff') format('woff');
+}
+@font-face {
+  font-family: 'Avenir';
+  font-weight: bold;
+  font-style: normal;
+  src:
+    url('./lib/fonts/36C4B6_8_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_8_0.woff') format('woff');
+}
+@font-face {
+  font-family: 'Avenir';
+  font-weight: bold;
+  font-style: italic;
+  src:
+    url('./lib/fonts/36C4B6_9_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_9_0.woff') format('woff');
+}
+@font-face {
+  font-family: 'AvenirLTPro-Black';
+  src:
+    url('./lib/fonts/36C4B6_A_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_A_0.woff') format('woff');
+}
+@font-face {
+  font-family: 'AvenirLTPro-BlackOblique';
+  src:
+    url('./lib/fonts/36C4B6_B_0.woff2') format('woff2'),
+    url('./lib/fonts/36C4B6_B_0.woff') format('woff');
+}
