@@ -1,3 +1,12 @@
+# Chakra UI CSS POC
+
+1. run `yarn`
+2. then run `yarn dev`
+3. open [http://localhost:3000](http://localhost:3000)
+4. 🤩
+
+---
+
 # Turborepo starter
 
 This is an official Yarn v1 starter turborepo.
