@@ -5,7 +5,6 @@ import {
   useDisclosure,
   Button,
   Switch,
-  FormLabel,
   HStack,
 } from "@chakra-ui/react";
 import { Banner } from "ui";
@@ -24,12 +23,15 @@ export default function Web() {
     toggleColorMode();
   }, [colorMode, toggleColorMode]);
   const { isOpen, onOpen, onClose } = useDisclosure();
-  const saveItem = useCallback((values: ModalItem) => {
-    setItemList((prev) => {
-      return prev ? [...prev, values] : [values];
-    });
-    onClose();
-  }, []);
+  const saveItem = useCallback(
+    (values: ModalItem) => {
+      setItemList((prev) => {
+        return prev ? [...prev, values] : [values];
+      });
+      onClose();
+    },
+    [onClose]
+  );
   return (
     <Box>
       <Flex width={"full"} direction="row-reverse" p={1} bg="red.600">
