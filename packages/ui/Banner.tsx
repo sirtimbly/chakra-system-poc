@@ -1,11 +1,9 @@
-import * as React from "react";
+import React from "react";
 import { Flex } from "@chakra-ui/react";
 
-export const Banner: React.FC<{ topRight?: React.ReactNode }> = ({
-  topRight,
-  children,
-  ...props
-}) => {
+export const Banner: React.FC<
+  React.PropsWithChildren & { topRight?: React.ReactNode }
+> = ({ topRight, children, ...props }) => {
   return (
     <Flex
       width={"full"}
